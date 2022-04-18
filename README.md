@@ -6,5 +6,5 @@
 + A final prediction of survivals using the best model  
 
 ## Code and resources used
-**R version** 4.1.1
-Packages: dplyr, e1071, ggplot2, InformationValue, tidymodels, parsnip, rpart.plot, rsample, yardstick, tune, dials, xgboost, ranger
+**R version** 4.1.1; 
+packages: dplyr, e1071, ggplot2, InformationValue, tidymodels, parsnip, rpart.plot, rsample, yardstick, tune, dials, xgboost, ranger
