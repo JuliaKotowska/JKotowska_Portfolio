@@ -1,4 +1,4 @@
-# Kaggle project - Titanic
+# [Kaggle project - Titanic](https://github.com/JuliaKotowska/JKotowska_Portfolio/blob/main/Kaggle_project_Titanic)
 + Data overview, cleaning, wrangling
 + Data visualizations to spot patterns that may turn out significant
 + Building machine learning models: decision tree, boosted tree, random forest, with tuned hyperparameters 
